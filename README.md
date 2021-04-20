@@ -8,5 +8,5 @@ Youtube Link: https://youtu.be/RK5foxPm5GA
 
 # 응용-쫌쫌따리코딩
 
-복습 및 응용하여 <strong>나만의 가격 소개 페이지 제작</strong>해보기 </br>
+복습 및 응용하여 <strong>나만의 가격 안내 웹페이지 제작</strong>해보기 </br>
 불규칙적으로 조금씩 업데이트될 예정
